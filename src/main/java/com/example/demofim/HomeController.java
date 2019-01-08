@@ -12,7 +12,7 @@ public class HomeController {
     @RequestMapping("/")
     @ResponseBody
     public String akce1() {
-        return "Ahoj akce 456";
+        return "Ahoj akce 45635";
     }
 
     @RequestMapping("/cas")
